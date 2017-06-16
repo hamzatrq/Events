@@ -2,7 +2,7 @@
 A clone of all events in city app in Ionic 3 framework.
 
 ### Supported OS
-The app supports Android, IOS, Windows and can also be hosted as a Progressive Ewb App
+The app supports Android, IOS, Windows and can also be hosted as a Progressive Web App
 
 ### Run in browser
 ```bash
